@@ -232,7 +232,7 @@ border: 1px solid transparent;
 /* Showcase */
 #showcase {
   background: url('../img/showcase.jpg') no-repeat center center/cover;
-  height: 70vh;
+  height: 100%;
   opacity: 0.8;
 }
 
