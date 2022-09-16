@@ -163,6 +163,9 @@ transition: all .6s;
   transform: scale(1.2);
 border: 1px solid transparent;
 }
+.fz25px{
+  font-size: 25px;
+}
 .bg-dark {
     background:#333;
   color: #fff;
