@@ -12,11 +12,11 @@
   margin: 0;
   padding:0;
   box-sizing: border-box;
+  font-family:cursive,'vazir', monospace;
 }
 
 /* Main Styling */
 html,body {
-  font-family:'vazir',cursive, monospace;
   line-height: 1.7em;
 }
 
